@@ -38,3 +38,14 @@ p {
 button {
   margin: 20px;
 }
+
+#reset{
+  margin: 20px;
+    position: relative;
+    top: 29px;
+    left: 121px;
+    padding: 7px;
+    background: orange;
+    font-family: sans-serif;
+    font-weight: 500;
+}
